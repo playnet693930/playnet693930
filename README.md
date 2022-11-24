@@ -24,3 +24,10 @@
   <img align="center" alt="Alan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Alan-pic" height="150" style="border-radius:50px;" src="https://github.com/playnet693930/playnet693930/blob/b6f1983c2d6c0e050bfdb56913e8a5da57b401a7/assets/image/Alan.png?raw=true">
 </div>
+
+<div>
+  <a href="https://www.instagram.com/alan_benizio_araujo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/ghostdays2.0#8889" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:alan24052002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alan-aparecido-araujo-5a6908158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   </div>
