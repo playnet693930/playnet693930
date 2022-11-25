@@ -1,7 +1,5 @@
 ### Oiii sou Alan Araujo
-
 ##
-
 - 🔭 Atualmente estou trabalhando como analista de tecnologia da informação.
 - 🌱 Estudo Ciência da Computação e tualmente estou aprendendo desenvolvimento front-end.
 - 😄 Pronomes:Ele/Dele.
