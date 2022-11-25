@@ -15,7 +15,7 @@
   <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Alan-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg">
-   <img align="center" alt="winserver" height="30" width="40" src="https://img1.gratispng.com/20180624/evg/kisspng-windows-server-2012-r2-windows-server-2008-client-windows-server-2003-r2-5b2fe2108c1f18.515437071529864720574.jpg">
+   <img align="center" alt="windowns" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg">
   <img align="right" alt="Alan-pic" height="150" style="border-radius:50px;" src="https://github.com/playnet693930/playnet693930/blob/b6f1983c2d6c0e050bfdb56913e8a5da57b401a7/assets/image/Alan.png?raw=true">
 </div>
 
