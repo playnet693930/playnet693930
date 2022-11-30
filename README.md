@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#
+212F3C&height=120&section=header"/>
+
 ### Oiii sou Alan Araujo
 ##
 - 🔭 Atualmente estou trabalhando como analista de tecnologia da informação.
