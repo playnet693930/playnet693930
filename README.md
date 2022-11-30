@@ -33,7 +33,7 @@
   ![snake gif](https://github.com/playnet693930/playnet693930/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=playnet693930&bg_color=0d1117&color=FCF9F9&line=fb7ecd&point=FCF9F9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=playnet693930&bg_color=000000&color=8f8f8f&line=707070&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=playnet693930&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
