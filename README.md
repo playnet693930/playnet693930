@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B7270&height=120&section=header"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B7270&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alan+Araujo;I'm+20+years+old;I'm+from+Brazil;I+Graduating+Computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
-### Oiii sou Alan Araujo
+### Hi, I'm Alan Araujo
 ##
 - 🔭 I currently work as an information technology analyst.
 - 🌱 I study Computer Science and am currently learning front-end development.
