@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B7270&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alan+Araujo;I'm+20+years+old;I'm+from+Brazil;I+Graduating+Computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ### Oiii sou Alan Araujo
 ##
-- 🔭 Atualmente estou trabalhando como analista de tecnologia da informação.
-- 🌱 Estudo Ciência da Computação e tualmente estou aprendendo desenvolvimento front-end.
-- 😄 Pronomes:Ele/Dele.
-- ⚡ Fato engraçado: Alguns processadores AMD podem ser desbloqueados para overclock usando um lápis.
+- 🔭 I currently work as an information technology analyst.
+- 🌱 I study Computer Science and am currently learning front-end development.
+- 😄 Pronouns: He/His.
+- ⚡ Fun fact: some AMD processors can be unlocked for overclocking using a pencil.
 
 <div align="center">
   <a href="https://github.com/playnet693930">
