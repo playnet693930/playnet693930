@@ -7,11 +7,14 @@
 - 🌱 Estudo Ciência da Computação e tualmente estou aprendendo desenvolvimento front-end.
 - 😄 Pronomes:Ele/Dele.
 - ⚡ Fato engraçado: Alguns processadores AMD podem ser desbloqueados para overclock usando um lápis.
+
 <div align="center">
   <a href="https://github.com/playnet693930">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=playnet693930&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=playnet693930&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
