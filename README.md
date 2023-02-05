@@ -36,7 +36,7 @@
   ![snake gif](https://github.com/playnet693930/playnet693930/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=playnet693930&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=playnet693930&bg_color=0d1117&color=b13583&line=696969&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=playnet693930&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
