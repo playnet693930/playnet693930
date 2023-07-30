@@ -33,7 +33,8 @@
   <a href = "mailto:alan24052002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alan-aparecido-araujo-5a6908158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
-  ![snake gif](https://github.com/playnet693930/playnet693930/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=playnet693930&bg_color=0d1117&color=696969&line=696969&point=708090&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
