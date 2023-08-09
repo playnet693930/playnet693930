@@ -26,6 +26,7 @@
   <img align="right" alt="Alan-pic" height="150" style="border-radius:50px;" src="https://github.com/playnet693930/playnet693930/blob/b6f1983c2d6c0e050bfdb56913e8a5da57b401a7/assets/image/Alan.png?raw=true">
   <img align="center" alt="Alan-fortinetNS1" height="30" width="40" src="https://github.com/playnet693930/playnet693930/blob/main/assets/1-associate-logo.png">
   <img align="center" alt="Alan-fortinetNS2" height="30" width="40" src="https://github.com/playnet693930/playnet693930/blob/main/assets/image/2-associate-logo.png">
+  <img align="center" alt="Alan-fortinetNS3" height="30" width="40" src="https://github.com/playnet693930/playnet693930/blob/main/assets/image/3-associate-logo.png">
    <img align="center" alt="Alan-NDGLINUX" height="30" width="40" src="https://github.com/playnet693930/playnet693930/blob/main/assets/image/Img12020-01-13-12-41-04.jpg">
    <img align="center" alt="Alan-cisco" height="30" width="40" src="https://github.com/playnet693930/playnet693930/blob/main/assets/image/Cisco_academy_logo.svg.png">
 </div>
